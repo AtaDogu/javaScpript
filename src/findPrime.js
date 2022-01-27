@@ -16,4 +16,4 @@ function findPrime(...numbers) {
   }
 }
 
-findPrime(5,7,6)
+findPrime(5,7,15,6)
